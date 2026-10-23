@@ -18,15 +18,15 @@ The interactive dashboard helps explore sales pipeline distribution, win/loss ou
 
 ### 1. Sales Overview
 
-![Sales Overview](sales-overview.png)
+![Sales Overview](Sales%20Overview.png)
 
 ### 2. Sales Agent Performance
 
-![Sales Agent Performance](sales-agent-performance.png)
+![Sales Agent Performance](Sales%20Agent%20Performance.png)
 
 ### 3. Product Performance
 
-![Product Performance](product-performance.png)
+![Product Performance](Product%20Performance.png)
 
 ## Key Findings
 
